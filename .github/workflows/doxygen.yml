@@ -1,0 +1,70 @@
+name: Generate Doxygen into doc on tag
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  docs:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout tagged commit
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Install Doxygen
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y doxygen graphviz
+
+      - name: Ensure doc directory exists
+        run: mkdir -p doc
+
+      - name: Create Doxyfile if missing
+        run: |
+          if [ ! -f doc/Doxyfile ]; then
+            printf '%s\n' \
+              'PROJECT_NAME           = "Project Documentation"' \
+              'OUTPUT_DIRECTORY       = doc' \
+              'GENERATE_HTML          = YES' \
+              'HTML_OUTPUT            = ' \
+              'GENERATE_LATEX         = NO' \
+              'RECURSIVE              = YES' \
+              'INPUT                  = .' \
+              'FILE_PATTERNS          = *.h *.c *.hpp *.cpp' \
+              'EXCLUDE                = doc' \
+              'QUIET                  = YES' \
+              > doc/Doxyfile
+          fi
+
+      - name: Generate Doxygen Docs
+        run: doxygen doc/Doxyfile
+
+      - name: Commit generated documentation
+        run: |
+          TAG_COMMIT=$(git rev-list -n 1 "$GITHUB_REF_NAME")
+          DEFAULT_BRANCH=master
+
+          git checkout "$DEFAULT_BRANCH"
+          git pull origin "$DEFAULT_BRANCH"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add doc
+
+          if git diff --cached --quiet; then
+            echo "No documentation changes to commit."
+          else
+            git commit -m "Update generated Doxygen documentation for tag $GITHUB_REF_NAME [skip ci]"
+            git push origin "$DEFAULT_BRANCH"
+          fi
