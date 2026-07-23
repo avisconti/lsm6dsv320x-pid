@@ -1,0 +1,6 @@
+<map id="STMicroelectronics Sensors Common Types" name="STMicroelectronics Sensors Common Types">
+<area shape="rect" id="Node000003" href="$group__Generic__structs.html" title="This structure is useful to load a predefined configuration of a sensor. You can create a sensor conf..." alt="" coords="400,5,561,45"/>
+<area shape="rect" id="Node000004" href="$group__Interfaces__Functions.html" title="This section provide a set of functions used to read and write a generic register of the device...." alt="" coords="403,70,559,95"/>
+<area shape="rect" id="Node000002" href="$group__LSM6DSV320X.html" title="This file provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,42,123,67"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="171,35,352,75"/>
+</map>

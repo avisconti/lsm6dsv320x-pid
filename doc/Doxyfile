@@ -1,0 +1,10 @@
+PROJECT_NAME           = "Project Documentation"
+OUTPUT_DIRECTORY       = doc
+GENERATE_HTML          = YES
+HTML_OUTPUT            = 
+GENERATE_LATEX         = NO
+RECURSIVE              = YES
+INPUT                  = .
+FILE_PATTERNS          = *.h *.c *.hpp *.cpp
+EXCLUDE                = doc
+QUIET                  = YES

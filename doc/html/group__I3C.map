@@ -1,0 +1,4 @@
+<map id="SenseWire (I3C) Configuration" name="SenseWire (I3C) Configuration">
+<area shape="rect" id="Node000001" title="This section group all the functions concerning the usage of SenseWire (I3C)" alt="" coords="171,5,388,31"/>
+<area shape="rect" id="Node000002" href="$group__LSM6DSV320X.html" title="This file provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,5,123,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Wake Up/Activity/Inactivity (Sleep) Configuration" name="Wake Up/Activity/Inactivity (Sleep) Configuration">
+<area shape="rect" id="Node000001" title="This section groups all the functions that manage the Wake Up event generation." alt="" coords="171,5,369,45"/>
+<area shape="rect" id="Node000002" href="$group__LSM6DSV320X.html" title="This file provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,13,123,38"/>
+</map>
