@@ -37,7 +37,8 @@ extern "C" {
   *
   */
 
-/** @defgroup LSM6DSV320X_regs Register section
+/** @defgroup LSM6DSV320X_regs LSM6DSV320X Register section
+  * @brief       This section provides sensor's register related definitions
   * @{
   *
   */
@@ -73,11 +74,6 @@ extern "C" {
   *
   */
 
-/** @defgroup st_common_types Sensors Common Types
-  * @{
-  *
-  */
-
 #ifndef MEMS_SHARED_TYPES
 #define MEMS_SHARED_TYPES
 
@@ -107,7 +103,7 @@ typedef struct
 #define PROPERTY_DISABLE                (0U)
 #define PROPERTY_ENABLE                 (1U)
 
-/** @defgroup  Interfaces_Functions
+/** @defgroup  Interfaces_Functions Generic Read/Write routines
   * @brief       This section provide a set of functions used to read and
   *              write a generic register of the device.
   *              MANDATORY: return 0 -> no Error.
@@ -150,39 +146,7 @@ typedef struct
 
 #endif /* MEMS_SHARED_TYPES */
 
-#ifndef MEMS_UCF_SHARED_TYPES
-#define MEMS_UCF_SHARED_TYPES
-
-/** @defgroup    Generic_structs Generic address-data structure definition
-  * @brief       This structure is useful to load a predefined configuration
-  *              of a sensor.
-  *              You can create a sensor configuration by your own or using
-  *              Unico / Unicleo tools available on STMicroelectronics
-  *              web site.
-  *
-  * @{
-  *
-  */
-
-typedef struct
-{
-  uint8_t address;
-  uint8_t data;
-} ucf_line_t;
-
-/**
-  * @}
-  *
-  */
-
-#endif /* MEMS_UCF_SHARED_TYPES */
-
-/**
-  * @}
-  *
-  */
-
-/** @defgroup LSM6DSV320X_Infos Infos
+/** @defgroup LSM6DSV320X_Infos I2C Address and Device ID
   * @{
   *
   */
@@ -199,7 +163,7 @@ typedef struct
   *
   */
 
-/** @defgroup bitfields_page_main Page Main register's bitfield
+/** @defgroup bitfields_page_main Main Page register's bitfield
   * @brief       Register definitions in Sensor Main Page
   * @{
   *
@@ -1813,7 +1777,7 @@ typedef struct
   *
   */
 
-/** @defgroup bitfields_page_if2 Page if2 register's bitfield
+/** @defgroup bitfields_page_if2 If2 Page register's bitfield
   * @brief       Register definitions in Sensor If2 Page
   * @{
   *
@@ -2074,7 +2038,7 @@ typedef struct
   *
   */
 
-/** @defgroup bitfields_page_embedded Page Embedded register's bitfield
+/** @defgroup bitfields_page_embedded Embedded Page register's bitfield
   * @brief       Register definitions in Sensor Embedded Page
   * @{
   *
@@ -4029,7 +3993,7 @@ typedef struct
 
 /**
   * @defgroup  LSM6DSV320X LSM6DSV320X APIs
-  * @brief     This file provides a set of functions needed to drive the
+  * @brief     This section provides a set of functions needed to drive the
   *            lsm6dsv320x enhanced inertial module.
   * @{
   *
