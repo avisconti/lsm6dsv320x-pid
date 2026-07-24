@@ -31,7 +31,13 @@ extern "C" {
 #include <math.h>
 #include <string.h>
 
-/** @addtogroup LSM6DSV320X
+/**
+  * @defgroup  LSM6DSV320X_sensor LSM6DSV320X Sensor driver definitions
+  * @{
+  *
+  */
+
+/** @defgroup LSM6DSV320X_regs Register section
   * @{
   *
   */
@@ -4012,12 +4018,17 @@ typedef struct
   *
   */
 
+/**
+  * @}
+  *
+  */
+
 #ifndef __weak
 #define __weak __attribute__((weak))
 #endif /* __weak */
 
 /**
-  * @defgroup  LSM6DSV320X LSM6DSV320X
+  * @defgroup  LSM6DSV320X LSM6DSV320X APIs
   * @brief     This file provides a set of functions needed to drive the
   *            lsm6dsv320x enhanced inertial module.
   * @{
@@ -8936,6 +8947,11 @@ int32_t lsm6dsv320x_act_wkup_time_windows_set(const stmdev_ctx_t *ctx,
   */
 int32_t lsm6dsv320x_act_wkup_time_windows_get(const stmdev_ctx_t *ctx,
                                               lsm6dsv320x_act_wkup_time_windows_t *val);
+
+/**
+  * @}
+  *
+  */
 
 /**
   * @}
