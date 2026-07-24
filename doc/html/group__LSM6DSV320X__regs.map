@@ -1,0 +1,14 @@
+<map id="Register section" name="Register section">
+<area shape="rect" id="Node000005" href="$group__LSM6DSV320X__Infos.html" title=" " alt="" coords="464,5,519,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="219,287,345,312"/>
+<area shape="rect" id="Node000008" href="$group__bitfields__page__embedded.html" title="Register definitions in Sensor Embedded Page." alt="" coords="396,55,587,95"/>
+<area shape="rect" id="Node000007" href="$group__bitfields__page__if2.html" title="Register definitions in Sensor If2 Page." alt="" coords="422,119,561,159"/>
+<area shape="rect" id="Node000006" href="$group__bitfields__page__main.html" title="Register definitions in Sensor Main Page." alt="" coords="414,183,569,223"/>
+<area shape="rect" id="Node000009" href="$group__bitfields__page__pg0__emb__adv.html" title="Register definitions in Sensor Embedded Advanced Page 0." alt="" coords="402,247,581,287"/>
+<area shape="rect" id="Node000010" href="$group__bitfields__page__pg1__emb__adv.html" title="Register definitions in Sensor Embedded Advanced Page 1." alt="" coords="402,311,581,351"/>
+<area shape="rect" id="Node000011" href="$group__bitfields__page__pg2__emb__adv.html" title="Register definitions in Sensor Embedded Advanced Page 2." alt="" coords="402,375,581,415"/>
+<area shape="rect" id="Node000012" href="$group__bitfields__page__sensor__hub.html" title="Register definitions in Sensor Hub Page." alt="" coords="393,439,589,479"/>
+<area shape="rect" id="Node000003" href="$group__endiannes__def.html" title=" " alt="" coords="407,504,575,529"/>
+<area shape="rect" id="Node000004" href="$group__st__common__types.html" title=" " alt="" coords="403,553,580,579"/>
+<area shape="rect" id="Node000002" href="$group__LSM6DSV320X__sensor.html" title=" " alt="" coords="5,279,171,319"/>
+</map>

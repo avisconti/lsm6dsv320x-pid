@@ -1,4 +1,4 @@
 <map id="pg1_emb_adv register&apos;s bitfield" name="pg1_emb_adv register&apos;s bitfield">
-<area shape="rect" id="Node000002" href="$group__LSM6DSV320X.html" title="This file provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,13,123,38"/>
-<area shape="rect" id="Node000001" title="Register definitions in Sensor Embedded Advanced Page 1." alt="" coords="171,5,349,45"/>
+<area shape="rect" id="Node000002" href="$group__LSM6DSV320X__regs.html" title=" " alt="" coords="5,13,132,38"/>
+<area shape="rect" id="Node000001" title="Register definitions in Sensor Embedded Advanced Page 1." alt="" coords="180,5,359,45"/>
 </map>

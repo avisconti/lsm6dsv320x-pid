@@ -1,4 +1,4 @@
 <map id="6D (and 4D) Orientation Configuration" name="6D (and 4D) Orientation Configuration">
-<area shape="rect" id="Node000001" title="This section groups all the functions concerning six position detection (6D)." alt="" coords="171,5,348,45"/>
-<area shape="rect" id="Node000002" href="$group__LSM6DSV320X.html" title="This file provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,13,123,38"/>
+<area shape="rect" id="Node000001" title="This section groups all the functions concerning six position detection (6D)." alt="" coords="203,5,380,45"/>
+<area shape="rect" id="Node000002" href="$group__LSM6DSV320X.html" title="This file provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,13,155,38"/>
 </map>

@@ -1,4 +1,4 @@
 <map id="Step Counter (Pedometer) Configuration" name="Step Counter (Pedometer) Configuration">
-<area shape="rect" id="Node000002" href="$group__LSM6DSV320X.html" title="This file provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,13,123,38"/>
-<area shape="rect" id="Node000001" title="This section groups all the functions that manage pedometer." alt="" coords="171,5,361,45"/>
+<area shape="rect" id="Node000002" href="$group__LSM6DSV320X.html" title="This file provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,13,155,38"/>
+<area shape="rect" id="Node000001" title="This section groups all the functions that manage pedometer." alt="" coords="203,5,393,45"/>
 </map>

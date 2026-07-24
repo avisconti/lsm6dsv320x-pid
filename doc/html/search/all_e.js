@@ -10,5 +10,5 @@ var searchData=
   ['pg2_5femb_5fadv_20register_20s_20bitfield_7',['pg2_emb_adv register&apos;s bitfield',['../group__bitfields__page__pg2__emb__adv.html',1,'']]],
   ['pins_20configuration_8',['Interrupt Pins Configuration',['../group__interrupt__pins.html',1,'']]],
   ['power_20sflp_20configuration_9',['Sensor Fusion Low Power (SFLP) Configuration',['../group__SFLP.html',1,'']]],
-  ['priv_5fdata_10',['priv_data',['../group__LSM6DSV320X.html#gad3d5d64800be9dfc16cc51823e964823',1,'stmdev_ctx_t']]]
+  ['priv_5fdata_10',['priv_data',['../structstmdev__ctx__t.html#ad3d5d64800be9dfc16cc51823e964823',1,'stmdev_ctx_t']]]
 ];
