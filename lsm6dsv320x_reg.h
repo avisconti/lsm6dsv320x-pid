@@ -3992,7 +3992,7 @@ typedef struct
 #endif /* __weak */
 
 /**
-  * @defgroup  LSM6DSV320X LSM6DSV320X APIs
+  * @defgroup  LSM6DSV320X_APIs LSM6DSV320X APIs
   * @brief     This section provides a set of functions needed to drive the
   *            lsm6dsv320x enhanced inertial module.
   * @{
@@ -8917,15 +8917,10 @@ int32_t lsm6dsv320x_act_wkup_time_windows_get(const stmdev_ctx_t *ctx,
   *
   */
 
-/**
-  * @}
-  *
-  */
+/** @} */ /* closing LSM6DSV320X_APIs section */
 
-/**
-  * @}
-  *
-  */
+/** @} */ /* closing LSM6DSV320X_sensor section */
+
 #ifdef __cplusplus
 }
 #endif
