@@ -1,4 +1,4 @@
-<map id="Infos" name="Infos">
-<area shape="rect" id="Node000001" title=" " alt="" coords="180,5,235,31"/>
-<area shape="rect" id="Node000002" href="$group__LSM6DSV320X__regs.html" title=" " alt="" coords="5,5,132,31"/>
+<map id="I2C Address and Device ID" name="I2C Address and Device ID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="228,13,423,38"/>
+<area shape="rect" id="Node000002" href="$group__LSM6DSV320X__regs.html" title="This section provides sensor&#39;s register related definitions." alt="" coords="5,5,180,45"/>
 </map>

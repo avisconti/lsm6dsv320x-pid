@@ -1,4 +1,4 @@
 <map id="Machine Learning Core (MLC) Configuration" name="Machine Learning Core (MLC) Configuration">
-<area shape="rect" id="Node000002" href="$group__LSM6DSV320X.html" title="This file provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,13,155,38"/>
+<area shape="rect" id="Node000002" href="$group__LSM6DSV320X.html" title="This section provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,13,155,38"/>
 <area shape="rect" id="Node000001" title="This section group all the functions concerning the usage of Machine Learning Core." alt="" coords="203,5,373,45"/>
 </map>

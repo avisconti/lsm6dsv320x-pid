@@ -1,4 +1,4 @@
-<map id="Interfaces_Functions" name="Interfaces_Functions">
-<area shape="rect" id="Node000001" title="This section provide a set of functions used to read and write a generic register of the device...." alt="" coords="231,5,387,31"/>
-<area shape="rect" id="Node000002" href="$group__st__common__types.html" title=" " alt="" coords="5,5,183,31"/>
+<map id="Generic Read/Write routines" name="Generic Read/Write routines">
+<area shape="rect" id="Node000001" title="This section provide a set of functions used to read and write a generic register of the device...." alt="" coords="228,5,376,45"/>
+<area shape="rect" id="Node000002" href="$group__LSM6DSV320X__regs.html" title="This section provides sensor&#39;s register related definitions." alt="" coords="5,5,180,45"/>
 </map>

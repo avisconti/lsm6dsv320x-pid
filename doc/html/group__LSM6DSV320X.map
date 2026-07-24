@@ -12,7 +12,7 @@
 <area shape="rect" id="Node000007" href="$group__HG.html" title="This section groups all the functions that manage High&#45;g." alt="" coords="455,561,611,586"/>
 <area shape="rect" id="Node000019" href="$group__I3C.html" title="This section group all the functions concerning the usage of SenseWire (I3C)" alt="" coords="425,610,642,635"/>
 <area shape="rect" id="Node000003" href="$group__Interface.html" title="This section provide a set of functions used to read and write a generic register of the device...." alt="" coords="458,659,609,685"/>
-<area shape="rect" id="Node000001" title="This file provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="219,689,368,714"/>
+<area shape="rect" id="Node000001" title="This section provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="219,689,368,714"/>
 <area shape="rect" id="Node000016" href="$group__MLC.html" title="This section group all the functions concerning the usage of Machine Learning Core." alt="" coords="448,709,619,749"/>
 <area shape="rect" id="Node000017" href="$group__OIS.html" title="This section groups all the functions concerning Optical Image Stabilization (OIS)." alt="" coords="434,773,633,813"/>
 <area shape="rect" id="Node000023" href="$group__Pedometer.html" title="This section groups all the functions that manage pedometer." alt="" coords="438,837,629,877"/>

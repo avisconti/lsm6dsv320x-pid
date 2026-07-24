@@ -1,4 +1,4 @@
-<map id="Page Main register&apos;s bitfield" name="Page Main register&apos;s bitfield">
-<area shape="rect" id="Node000002" href="$group__LSM6DSV320X__regs.html" title=" " alt="" coords="5,13,132,38"/>
-<area shape="rect" id="Node000001" title="Register definitions in Sensor Main Page." alt="" coords="180,5,335,45"/>
+<map id="Main Page register&apos;s bitfield" name="Main Page register&apos;s bitfield">
+<area shape="rect" id="Node000002" href="$group__LSM6DSV320X__regs.html" title="This section provides sensor&#39;s register related definitions." alt="" coords="5,5,180,45"/>
+<area shape="rect" id="Node000001" title="Register definitions in Sensor Main Page." alt="" coords="228,5,383,45"/>
 </map>
