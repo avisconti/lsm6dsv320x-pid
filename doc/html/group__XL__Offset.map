@@ -1,4 +1,4 @@
 <map id="Accelerometer user offset correction" name="Accelerometer user offset correction">
-<area shape="rect" id="Node000002" href="$group__LSM6DSV320X.html" title="This section provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,13,155,38"/>
+<area shape="rect" id="Node000002" href="$group__LSM6DSV320X__APIs.html" title="This section provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,13,155,38"/>
 <area shape="rect" id="Node000001" title="This section groups all the functions concerning the usage of Accelerometer user offset correction." alt="" coords="203,5,352,45"/>
 </map>

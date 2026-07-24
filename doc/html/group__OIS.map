@@ -1,4 +1,4 @@
 <map id="Optical Image Stabilization (OIS) Configuration" name="Optical Image Stabilization (OIS) Configuration">
-<area shape="rect" id="Node000002" href="$group__LSM6DSV320X.html" title="This section provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,13,155,38"/>
+<area shape="rect" id="Node000002" href="$group__LSM6DSV320X__APIs.html" title="This section provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,13,155,38"/>
 <area shape="rect" id="Node000001" title="This section groups all the functions concerning Optical Image Stabilization (OIS)." alt="" coords="203,5,401,45"/>
 </map>

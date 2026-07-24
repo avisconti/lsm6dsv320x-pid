@@ -1,5 +1,5 @@
 <map id="LSM6DSV320X Sensor driver definitions" name="LSM6DSV320X Sensor driver definitions">
-<area shape="rect" id="Node000003" href="$group__LSM6DSV320X.html" title="This section provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="231,5,381,31"/>
+<area shape="rect" id="Node000003" href="$group__LSM6DSV320X__APIs.html" title="This section provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="231,5,381,31"/>
 <area shape="rect" id="Node000002" href="$group__LSM6DSV320X__regs.html" title="This section provides sensor&#39;s register related definitions." alt="" coords="219,55,393,95"/>
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,27,171,67"/>
 </map>

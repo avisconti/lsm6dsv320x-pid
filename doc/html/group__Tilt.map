@@ -1,4 +1,4 @@
 <map id="Tilt detection Configuration" name="Tilt detection Configuration">
-<area shape="rect" id="Node000002" href="$group__LSM6DSV320X.html" title="This section provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,5,155,31"/>
+<area shape="rect" id="Node000002" href="$group__LSM6DSV320X__APIs.html" title="This section provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,5,155,31"/>
 <area shape="rect" id="Node000001" title="This section groups all the functions that manage the tilt event detection." alt="" coords="203,5,401,31"/>
 </map>

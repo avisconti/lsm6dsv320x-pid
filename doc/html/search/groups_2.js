@@ -5,5 +5,5 @@ var searchData=
   ['address_20and_20device_20id_2',['I2C Address and Device ID',['../group__LSM6DSV320X__Infos.html',1,'']]],
   ['and_204d_20orientation_20configuration_3',['6D (and 4D) Orientation Configuration',['../group__D__4D.html',1,'']]],
   ['and_20device_20id_4',['I2C Address and Device ID',['../group__LSM6DSV320X__Infos.html',1,'']]],
-  ['apis_5',['LSM6DSV320X APIs',['../group__LSM6DSV320X.html',1,'']]]
+  ['apis_5',['LSM6DSV320X APIs',['../group__LSM6DSV320X__APIs.html',1,'']]]
 ];
