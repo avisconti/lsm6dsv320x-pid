@@ -1,37 +1,39 @@
 <map id="LSM6DSV320X" name="LSM6DSV320X">
-<area shape="rect" id="Node000035" href="$group__Activity__Inactivity.html" title="This section groups all the functions that manage the Wake Up event generation." alt="" coords="189,5,387,45"/>
-<area shape="rect" id="Node000016" href="$group__Common.html" title="This section groups common useful functions. /." alt="" coords="215,70,361,95"/>
-<area shape="rect" id="Node000017" href="$group__DEN.html" title="This section groups all the functions concerning DEN functionality." alt="" coords="171,119,405,145"/>
-<area shape="rect" id="Node000032" href="$group__DTap.html" title="This section groups all the functions that manage the tap and double tap event generation." alt="" coords="183,169,393,194"/>
-<area shape="rect" id="Node000025" href="$group__D__4D.html" title="This section groups all the functions concerning six position detection (6D)." alt="" coords="199,219,377,259"/>
-<area shape="rect" id="Node000018" href="$group__EIS.html" title="Electronic Image Stabilization (EIS) /." alt="" coords="180,283,396,323"/>
-<area shape="rect" id="Node000022" href="$group__FF.html" title="This section group all the functions concerning the free fall detection." alt="" coords="205,347,371,373"/>
-<area shape="rect" id="Node000019" href="$group__FIFO.html" title="This section group all the functions concerning the FIFO usage." alt="" coords="217,397,359,422"/>
-<area shape="rect" id="Node000021" href="$group__FSM.html" title="This section groups all the functions that manage the state_machine." alt="" coords="211,447,365,487"/>
-<area shape="rect" id="Node000020" href="$group__Filters.html" title="This section group all the functions concerning the filters configuration." alt="" coords="215,511,361,537"/>
-<area shape="rect" id="Node000014" href="$group__HG.html" title="This section groups all the functions that manage High&#45;g." alt="" coords="210,561,366,586"/>
-<area shape="rect" id="Node000026" href="$group__I3C.html" title="This section group all the functions concerning the usage of SenseWire (I3C)" alt="" coords="179,610,397,635"/>
-<area shape="rect" id="Node000010" href="$group__Interface.html" title="This section provide a set of functions used to read and write a generic register of the device...." alt="" coords="213,659,363,685"/>
-<area shape="rect" id="Node000001" title="This file provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,923,123,949"/>
+<area shape="rect" id="Node000037" href="$group__Activity__Inactivity.html" title="This section groups all the functions that manage the Wake Up event generation." alt="" coords="189,5,387,45"/>
+<area shape="rect" id="Node000018" href="$group__Common.html" title="This section groups common useful functions. /." alt="" coords="215,70,361,95"/>
+<area shape="rect" id="Node000019" href="$group__DEN.html" title="This section groups all the functions concerning DEN functionality." alt="" coords="171,119,405,145"/>
+<area shape="rect" id="Node000034" href="$group__DTap.html" title="This section groups all the functions that manage the tap and double tap event generation." alt="" coords="183,169,393,194"/>
+<area shape="rect" id="Node000027" href="$group__D__4D.html" title="This section groups all the functions concerning six position detection (6D)." alt="" coords="199,219,377,259"/>
+<area shape="rect" id="Node000020" href="$group__EIS.html" title="Electronic Image Stabilization (EIS) /." alt="" coords="180,283,396,323"/>
+<area shape="rect" id="Node000024" href="$group__FF.html" title="This section group all the functions concerning the free fall detection." alt="" coords="205,347,371,373"/>
+<area shape="rect" id="Node000021" href="$group__FIFO.html" title="This section group all the functions concerning the FIFO usage." alt="" coords="217,397,359,422"/>
+<area shape="rect" id="Node000023" href="$group__FSM.html" title="This section groups all the functions that manage the state_machine." alt="" coords="211,447,365,487"/>
+<area shape="rect" id="Node000022" href="$group__Filters.html" title="This section group all the functions concerning the filters configuration." alt="" coords="215,511,361,537"/>
+<area shape="rect" id="Node000016" href="$group__HG.html" title="This section groups all the functions that manage High&#45;g." alt="" coords="210,561,366,586"/>
+<area shape="rect" id="Node000028" href="$group__I3C.html" title="This section group all the functions concerning the usage of SenseWire (I3C)" alt="" coords="179,610,397,635"/>
+<area shape="rect" id="Node000012" href="$group__Interface.html" title="This section provide a set of functions used to read and write a generic register of the device...." alt="" coords="213,659,363,685"/>
+<area shape="rect" id="Node000001" title="This file provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,981,123,1006"/>
 <area shape="rect" id="Node000004" href="$group__LSM6DSV320X__Infos.html" title=" " alt="" coords="261,709,315,734"/>
-<area shape="rect" id="Node000023" href="$group__MLC.html" title="This section group all the functions concerning the usage of Machine Learning Core." alt="" coords="203,759,373,799"/>
-<area shape="rect" id="Node000024" href="$group__OIS.html" title="This section groups all the functions concerning Optical Image Stabilization (OIS)." alt="" coords="189,823,387,863"/>
-<area shape="rect" id="Node000030" href="$group__Pedometer.html" title="This section groups all the functions that manage pedometer." alt="" coords="193,887,383,927"/>
-<area shape="rect" id="Node000013" href="$group__Reset.html" title="This section groups all the functions concerning the reset and power on routines." alt="" coords="227,951,349,977"/>
-<area shape="rect" id="Node000031" href="$group__SFLP.html" title="This section groups all the functions that manage pedometer." alt="" coords="195,1001,381,1041"/>
-<area shape="rect" id="Node000027" href="$group__SH.html" title="This section groups all the functions that manage the sensor hub." alt="" coords="195,1066,381,1091"/>
-<area shape="rect" id="Node000011" href="$group__Sensitivity.html" title="These functions convert raw&#45;data into engineering units." alt="" coords="209,1115,367,1141"/>
-<area shape="rect" id="Node000029" href="$group__Sigmot.html" title="This section groups all the functions that manage the significant motion detection." alt="" coords="199,1165,377,1205"/>
-<area shape="rect" id="Node000033" href="$group__Tilt.html" title="This section groups all the functions that manage the tilt event detection." alt="" coords="189,1230,387,1255"/>
-<area shape="rect" id="Node000034" href="$group__Timestamp.html" title="This section groups all the functions that manage the timestamp generation." alt="" coords="195,1279,381,1305"/>
-<area shape="rect" id="Node000028" href="$group__UI.html" title="This section groups all the functions concerning serial interfaces management (not auxiliary)" alt="" coords="179,1329,397,1354"/>
-<area shape="rect" id="Node000012" href="$group__XL__Offset.html" title="This section groups all the functions concerning the usage of Accelerometer user offset correction." alt="" coords="213,1379,363,1419"/>
-<area shape="rect" id="Node000007" href="$group__bitfields__page__embedded.html" title=" " alt="" coords="197,1443,379,1469"/>
-<area shape="rect" id="Node000006" href="$group__bitfields__page__if2.html" title=" " alt="" coords="223,1493,353,1518"/>
-<area shape="rect" id="Node000005" href="$group__bitfields__page__main.html" title=" " alt="" coords="215,1542,361,1567"/>
-<area shape="rect" id="Node000008" href="$group__bitfields__page__pg0__emb__adv.html" title=" " alt="" coords="219,1592,357,1632"/>
-<area shape="rect" id="Node000009" href="$group__bitfields__page__pg1__emb__adv.html" title=" " alt="" coords="219,1656,357,1696"/>
-<area shape="rect" id="Node000002" href="$group__endiannes__def.html" title=" " alt="" coords="204,1721,372,1746"/>
-<area shape="rect" id="Node000015" href="$group__interrupt__pins.html" title="This section groups all the functions that manage routing events on interrupt pins." alt="" coords="188,1770,388,1795"/>
-<area shape="rect" id="Node000003" href="$group__st__common__types.html" title=" " alt="" coords="197,1820,379,1860"/>
+<area shape="rect" id="Node000025" href="$group__MLC.html" title="This section group all the functions concerning the usage of Machine Learning Core." alt="" coords="203,759,373,799"/>
+<area shape="rect" id="Node000026" href="$group__OIS.html" title="This section groups all the functions concerning Optical Image Stabilization (OIS)." alt="" coords="189,823,387,863"/>
+<area shape="rect" id="Node000032" href="$group__Pedometer.html" title="This section groups all the functions that manage pedometer." alt="" coords="193,887,383,927"/>
+<area shape="rect" id="Node000015" href="$group__Reset.html" title="This section groups all the functions concerning the reset and power on routines." alt="" coords="227,951,349,977"/>
+<area shape="rect" id="Node000033" href="$group__SFLP.html" title="This section groups all the functions that manage pedometer." alt="" coords="195,1001,381,1041"/>
+<area shape="rect" id="Node000029" href="$group__SH.html" title="This section groups all the functions that manage the sensor hub." alt="" coords="195,1066,381,1091"/>
+<area shape="rect" id="Node000013" href="$group__Sensitivity.html" title="These functions convert raw&#45;data into engineering units." alt="" coords="209,1115,367,1141"/>
+<area shape="rect" id="Node000031" href="$group__Sigmot.html" title="This section groups all the functions that manage the significant motion detection." alt="" coords="199,1165,377,1205"/>
+<area shape="rect" id="Node000035" href="$group__Tilt.html" title="This section groups all the functions that manage the tilt event detection." alt="" coords="189,1230,387,1255"/>
+<area shape="rect" id="Node000036" href="$group__Timestamp.html" title="This section groups all the functions that manage the timestamp generation." alt="" coords="195,1279,381,1305"/>
+<area shape="rect" id="Node000030" href="$group__UI.html" title="This section groups all the functions concerning serial interfaces management (not auxiliary)" alt="" coords="179,1329,397,1354"/>
+<area shape="rect" id="Node000014" href="$group__XL__Offset.html" title="This section groups all the functions concerning the usage of Accelerometer user offset correction." alt="" coords="213,1379,363,1419"/>
+<area shape="rect" id="Node000007" href="$group__bitfields__page__embedded.html" title="Register definitions in Sensor Embedded Page." alt="" coords="193,1443,383,1483"/>
+<area shape="rect" id="Node000006" href="$group__bitfields__page__if2.html" title="Register definitions in Sensor If2 Page." alt="" coords="219,1507,357,1547"/>
+<area shape="rect" id="Node000005" href="$group__bitfields__page__main.html" title="Register definitions in Sensor Main Page." alt="" coords="211,1571,365,1611"/>
+<area shape="rect" id="Node000008" href="$group__bitfields__page__pg0__emb__adv.html" title="Register definitions in Sensor Embedded Advanced Page 0." alt="" coords="199,1635,377,1675"/>
+<area shape="rect" id="Node000009" href="$group__bitfields__page__pg1__emb__adv.html" title="Register definitions in Sensor Embedded Advanced Page 1." alt="" coords="199,1699,377,1739"/>
+<area shape="rect" id="Node000010" href="$group__bitfields__page__pg2__emb__adv.html" title="Register definitions in Sensor Embedded Advanced Page 2." alt="" coords="199,1763,377,1803"/>
+<area shape="rect" id="Node000011" href="$group__bitfields__page__sensor__hub.html" title="Register definitions in Sensor Hub Page." alt="" coords="190,1827,386,1867"/>
+<area shape="rect" id="Node000002" href="$group__endiannes__def.html" title=" " alt="" coords="204,1891,372,1917"/>
+<area shape="rect" id="Node000017" href="$group__interrupt__pins.html" title="This section groups all the functions that manage routing events on interrupt pins." alt="" coords="188,1941,388,1966"/>
+<area shape="rect" id="Node000003" href="$group__st__common__types.html" title=" " alt="" coords="199,1990,377,2015"/>
 </map>

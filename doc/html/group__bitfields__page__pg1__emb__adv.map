@@ -1,7 +1,4 @@
-<map id="Bitfields Page pg1_emb_adv" name="Bitfields Page pg1_emb_adv">
-<area shape="rect" id="Node000002" href="$group__LSM6DSV320X.html" title="This file provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,63,123,88"/>
-<area shape="rect" id="Node000001" title=" " alt="" coords="171,55,309,95"/>
-<area shape="rect" id="Node000005" href="$group__LSM6DSV320X__Register__Union.html" title="This union group all the registers having a bit&#45;field description. This union is useful but it&#39;s not ..." alt="" coords="392,5,511,31"/>
-<area shape="rect" id="Node000003" href="$group__bitfields__page__pg2__emb__adv.html" title=" " alt="" coords="382,55,521,95"/>
-<area shape="rect" id="Node000004" href="$group__bitfields__page__sensor__hub.html" title=" " alt="" coords="357,120,545,145"/>
+<map id="pg1_emb_adv register&apos;s bitfield" name="pg1_emb_adv register&apos;s bitfield">
+<area shape="rect" id="Node000002" href="$group__LSM6DSV320X.html" title="This file provides a set of functions needed to drive the lsm6dsv320x enhanced inertial module." alt="" coords="5,13,123,38"/>
+<area shape="rect" id="Node000001" title="Register definitions in Sensor Embedded Advanced Page 1." alt="" coords="171,5,349,45"/>
 </map>

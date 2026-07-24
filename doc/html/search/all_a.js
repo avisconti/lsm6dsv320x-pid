@@ -1,7 +1,7 @@
 var searchData=
 [
   ['i3c_20configuration_0',['SenseWire (I3C) Configuration',['../group__I3C.html',1,'']]],
-  ['if2_1',['Bitfields Page if2',['../group__bitfields__page__if2.html',1,'']]],
+  ['if2_20register_20s_20bitfield_1',['Page if2 register&apos;s bitfield',['../group__bitfields__page__if2.html',1,'']]],
   ['image_20stabilization_20eis_20configuration_2',['Electronic Image Stabilization (EIS) Configuration',['../group__EIS.html',1,'']]],
   ['image_20stabilization_20ois_20configuration_3',['Optical Image Stabilization (OIS) Configuration',['../group__OIS.html',1,'']]],
   ['inactivity_20sleep_20configuration_4',['Wake Up/Activity/Inactivity (Sleep) Configuration',['../group__Activity__Inactivity.html',1,'']]],

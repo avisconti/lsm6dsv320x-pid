@@ -1,11 +1,5 @@
 var searchData=
 [
-  ['bitfields_20page_20embedded_0',['Bitfields Page Embedded',['../group__bitfields__page__embedded.html',1,'']]],
-  ['bitfields_20page_20if2_1',['Bitfields Page if2',['../group__bitfields__page__if2.html',1,'']]],
-  ['bitfields_20page_20main_2',['Bitfields Page Main',['../group__bitfields__page__main.html',1,'']]],
-  ['bitfields_20page_20pg0_5femb_5fadv_3',['Bitfields Page pg0_emb_adv',['../group__bitfields__page__pg0__emb__adv.html',1,'']]],
-  ['bitfields_20page_20pg1_5femb_5fadv_4',['Bitfields Page pg1_emb_adv',['../group__bitfields__page__pg1__emb__adv.html',1,'']]],
-  ['bitfields_20page_20pg2_5femb_5fadv_5',['Bitfields Page pg2_emb_adv',['../group__bitfields__page__pg2__emb__adv.html',1,'']]],
-  ['bitfields_20page_20sensor_5fhub_6',['Bitfields Page sensor_hub',['../group__bitfields__page__sensor__hub.html',1,'']]],
-  ['bitwise_5ft_7',['bitwise_t',['../structbitwise__t.html',1,'']]]
+  ['bitfield_0',['bitfield',['../group__bitfields__page__embedded.html',1,'Page Embedded register&apos;s bitfield'],['../group__bitfields__page__if2.html',1,'Page if2 register&apos;s bitfield'],['../group__bitfields__page__main.html',1,'Page Main register&apos;s bitfield'],['../group__bitfields__page__sensor__hub.html',1,'Page sensor_hub register&apos;s bitfield'],['../group__bitfields__page__pg0__emb__adv.html',1,'pg0_emb_adv register&apos;s bitfield'],['../group__bitfields__page__pg1__emb__adv.html',1,'pg1_emb_adv register&apos;s bitfield'],['../group__bitfields__page__pg2__emb__adv.html',1,'pg2_emb_adv register&apos;s bitfield']]],
+  ['bitwise_5ft_1',['bitwise_t',['../structbitwise__t.html',1,'']]]
 ];
